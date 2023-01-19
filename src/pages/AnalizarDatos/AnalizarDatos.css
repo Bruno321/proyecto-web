@@ -1,0 +1,64 @@
+.buttons-container{
+    margin-top: 3vh;
+}
+.buttons-container>button{
+    width: 30%;
+    height: 5vh;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 2vh;
+}
+.opciones-container{
+    display: flex;
+    height: 25vh;
+}
+.opciones-container{
+    display: flex;
+}
+.ingresar-valores>h2{
+    margin-left: 2vh;
+    margin-top: 2vh;
+}
+
+.hovered-select{
+    background-color: #2f4858;
+}
+
+.select-container{
+    width: 45%;
+}
+.ingresar-valores>div{
+    margin-left: 2vh;
+    margin-top: 1vh;
+}
+.ingresar-valores>button{
+    background-color: #1AEBB6;
+    width: 40%;
+    height: 5vh;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 2vh;
+    margin-left: 20%;
+}
+.opciones{
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+}
+.opciones>h2{
+    margin-top: 1vh;
+    margin-left: 2vh;
+}
+.opciones>div{
+    margin-top: 1vh;
+}
+.opciones>div>button{
+    width: 18%;
+    height: 3vh;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 2vh;
+}

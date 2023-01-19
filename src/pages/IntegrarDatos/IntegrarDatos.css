@@ -1,0 +1,16 @@
+.integrar-container{
+    padding: 10px;
+}
+.integrar-container>div{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+.checar{
+    background-color: #1AEBB6;
+    width: 10%;
+    height: 5vh;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 5px;
+}

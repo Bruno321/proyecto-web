@@ -1,0 +1,9 @@
+#data2{
+    width: 50%;
+    height: 10vh;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+#data2 .th {
+    background-color: #E5E5E5;
+}
